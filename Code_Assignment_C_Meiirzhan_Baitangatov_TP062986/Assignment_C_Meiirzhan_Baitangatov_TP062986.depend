@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1652234610 source:c:\users\aslan\downloads\mynewproject\assignment_c_meiirzhan_baitangatov_tp062986\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"TaskManager.h"
+	"AccountManager.h"
+
+1652699645 c:\users\aslan\downloads\mynewproject\assignment_c_meiirzhan_baitangatov_tp062986\taskmanager.h
+
+1652242362 c:\users\aslan\downloads\mynewproject\assignment_c_meiirzhan_baitangatov_tp062986\accountmanager.h
+
+1652760461 source:c:\users\aslan\onedrive - gkserse.fweswe\desktop\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"TaskManager.h"
+	"AccountManager.h"
+
+1652699645 c:\users\aslan\onedrive - gkserse.fweswe\desktop\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\taskmanager.h
+
+1652242362 c:\users\aslan\onedrive - gkserse.fweswe\desktop\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\accountmanager.h
+
+1655025108 source:c:\users\aslan\onedrive - gkserse.fweswe\desktop\2 s\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1652931531 c:\users\aslan\onedrive - gkserse.fweswe\desktop\2 s\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\taskmanager.h
+
+1653628972 c:\users\aslan\onedrive - gkserse.fweswe\desktop\2 s\c_assignment_meiirzhan_baitangatov_tp062986\code_assignment_c_meiirzhan_baitangatov_tp062986\accountmanager.h
+
